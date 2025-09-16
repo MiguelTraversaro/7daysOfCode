@@ -1,4 +1,4 @@
-// Day 1
+//* Day 1
 let numeroUn = 1
 let stringUn = '1'
 let numeroTreinta = 30
